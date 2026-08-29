@@ -23,4 +23,5 @@ Operator
 ```
 https://github.com/jackwener/opencli
 https://github.com/carboneio/carbone
+https://github.com/eosphoros-ai/DB-GPT
 ```
