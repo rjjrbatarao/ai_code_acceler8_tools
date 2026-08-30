@@ -5,6 +5,10 @@ Sources for coding AI tools for better Frontend and backend
 ```
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 ```
+## Scientific
+```
+https://github.com/K-Dense-AI/scientific-agent-skills
+```
 ## All in 1
 ```
 https://github.com/chrstian6/contractor
